@@ -7,11 +7,11 @@ class Cx < Formula
   on_macos do
     on_arm do
       url "https://github.com/leefufufufufu-rgb/cyber-cultivator/releases/download/v#{version}/cx-v#{version}-aarch64-apple-darwin.tar.gz"
-      sha256 "3f193f4cfb4876a4a1da35f3d6b812f17a3dbac30e21b925cd6f37de4a35906f"
+      sha256 "9c4abe7791343c3266772a80e0243e1ae21d7811a6d038ee8f79eabb33e6a66e"
     end
     on_intel do
       url "https://github.com/leefufufufufu-rgb/cyber-cultivator/releases/download/v#{version}/cx-v#{version}-x86_64-apple-darwin.tar.gz"
-      sha256 "PLACEHOLDER_INTEL"
+      sha256 "1feb41690fa27a59e612db6b18272cd555940295ff4bfed512f54b1453de1364"
     end
   end
 
@@ -30,8 +30,6 @@ class Cx < Formula
         cx install-hooks # Auto-track AI tokens
         cx dz            # Meditate (TUI)
         cx chat          # Chat with your spirit pet
-
-      Theme: cx config set theme light  (for light terminals)
     EOS
   end
 
