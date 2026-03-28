@@ -230,6 +230,23 @@ cx init
 - 🌐 [Patreon](https://patreon.com/leefu) (International)
 - 🇨🇳 [爱发电](https://afdian.com/a/leefu) (中国)
 
+
+### 推荐终端环境 Recommended Setup
+
+最稳定测试环境 / Best tested environment:
+
+- **终端 Terminal**: Ghostty 1.3+（推荐）/ iTerm2
+- **主题 Theme**: Dark（深色背景）
+- **系统 OS**: macOS 15.1+
+- **Shell**: zsh
+
+其他终端（Terminal.app、Warp、Hyper 等）基本兼容，浅色终端请先运行 `cx config set theme light`。
+
+如遇显示问题，欢迎反馈：
+
+- GitHub Issues: https://github.com/leefufufufufu-rgb/cyber-cultivation/issues
+- 爱发电留言: https://afdian.com/a/leefu
+
 ## License
 
 Proprietary. Free to use. 免费使用，闭源分发。
