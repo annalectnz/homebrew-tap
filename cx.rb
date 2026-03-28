@@ -7,7 +7,7 @@ class Cx < Formula
   on_macos do
     on_arm do
       url "https://github.com/leefufufufufu-rgb/homebrew-tap/releases/download/v#{version}/cx-v#{version}-aarch64-apple-darwin.tar.gz"
-      sha256 "1feb41690fa27a59e612db6b18272cd555940295ff4bfed512f54b1453de1364"
+      sha256 "c115ff1e739623ede5d98d28ff0419a50f73240c80383a35ca3055335c8ea0f8"
     end
     on_intel do
       url "https://github.com/leefufufufufu-rgb/homebrew-tap/releases/download/v#{version}/cx-v#{version}-x86_64-apple-darwin.tar.gz"
